@@ -1,0 +1,11 @@
+
+google-generativeai 
+flask 
+flask-cors 
+watchdog 
+sentence-transformers 
+pdfplumber 
+python-docx 
+scikit-learn 
+numpy
+dotenv
